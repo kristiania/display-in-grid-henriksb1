@@ -95,7 +95,6 @@
 @media only screen and (min-width: 768px) {
 
     /* For desktop: */
-    /* For tablets: */
     .grid-container {
         display: grid;
         grid-template-columns: auto auto auto auto;
